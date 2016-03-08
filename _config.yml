@@ -1,0 +1,28 @@
+name: hopedealer2
+favicon: null
+layout_spectrum: 0.36778838047757745
+typography_spectrum: 0.5712975773494691
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.26759330020286143
+  lightness: 0.6143768629990518
+  saturation: 0.359377377666533
+  rhythmicContrast: 0.03067114041186869
+purpose: []
