@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[hopedealer2]]></title>
+        <description><![CDATA[hopedealer2]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 23:50:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined845b3a7e-589a-41cf-ae41-b451042837c6/index.html</link>
+            <guid isPermaLink="false">845b3a7e-589a-41cf-ae41-b451042837c6</guid>
+            <pubDate>Wed, 09 Mar 2016 23:50:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
