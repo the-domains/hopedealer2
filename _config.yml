@@ -23,7 +23,7 @@ color:
     - '#001720'
     - '#661c1e'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
