@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "If you'd like to stay up to date with Hope Dealer and receive ocassional emails,\_"
-datePublished: '2016-04-05T00:01:18.461Z'
-dateModified: '2016-04-05T00:00:44.841Z'
-title: ''
+description: "If you'd like to stay up to date with Hope Dealer and receive occasional emails from us, feel free to sign up here."
+datePublished: '2016-04-05T00:09:25.071Z'
+dateModified: '2016-04-05T00:09:23.556Z'
+title: Subscribe To Hope Dealer
 author: []
+sourcePath: _posts/2016-04-05-if-youd-like-to-stay-up-to-date-with-hope-dealer-and-receiv.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-if-youd-like-to-stay-up-to-date-with-hope-dealer-and-receiv.md
-published: true
 url: if-youd-like-to-stay-up-to-date-with-hope-dealer-and-receiv/index.html
 _type: Article
 
