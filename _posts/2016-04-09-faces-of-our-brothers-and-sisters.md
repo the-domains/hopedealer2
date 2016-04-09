@@ -6,21 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-09T18:59:31.522Z'
-dateModified: '2016-04-09T18:59:24.498Z'
+datePublished: '2016-04-09T19:15:24.546Z'
+dateModified: '2016-04-09T19:15:22.522Z'
 author: []
 title: 'Faces Of Our Brothers & Sisters'
+sourcePath: _posts/2016-04-09-faces-of-our-brothers-and-sisters.md
+published: true
 authors: []
 publisher:
   name: youtube.com
   domain: www.youtube.com
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-faces-of-our-brothers-and-sisters.md
-published: true
 url: faces-of-our-brothers-and-sisters/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://i.ytimg.com/vi/QrssDNa1r4g/default.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6eb0ae321f8549c401942af0b0ec185b0088d57f.jpg)
