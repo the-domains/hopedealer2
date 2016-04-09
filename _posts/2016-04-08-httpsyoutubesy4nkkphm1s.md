@@ -1,20 +1,26 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=sy4nKkPhM1s&feature=youtu.be'
+inLanguage: null
+starred: false
+keywords: []
 description: 'https://youtu.be/sy4nKkPhM1s'
+datePublished: '2016-04-09T19:17:00.849Z'
+dateModified: '2016-04-09T19:17:00.585Z'
 author: []
-datePublished: '2016-04-08T14:58:23.328Z'
-publisher:
-  domain: www.youtube.com
-  name: youtube.com
-dateModified: '2016-04-08T14:43:39.282Z'
 title: ''
 sourcePath: _posts/2016-04-08-httpsyoutubesy4nkkphm1s.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: httpsyoutubesy4nkkphm1s/index.html
+authors: []
+publisher:
+  name: youtube.com
+  domain: www.youtube.com
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-https://youtu.be/sy4nKkPhM1s
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4739e54c-96f5-4c6c-a1f4-b88debce9fa6.jpg)
