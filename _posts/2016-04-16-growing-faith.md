@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Growing Faith
-datePublished: '2016-04-16T21:25:58.522Z'
-dateModified: '2016-04-16T21:25:42.396Z'
+datePublished: '2016-04-16T22:57:38.384Z'
+dateModified: '2016-04-16T22:25:15.045Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-16-growing-faith.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ef2159-1698-4d9a-8dd4-489f92464427.jpg)
 
-**Growing Faith**
+**Growing Faith by Rev. Pastor Jeff Graves**
 
 Our faith in God does not grow without careful attention. Like the vegetables in your garden, your faith needs deliberate care. A bodybuilder cannot lie in bed and dream of growing strong and thus develop his muscles. Neither can we leave our faith on the shelf and expect it to grow.
 
