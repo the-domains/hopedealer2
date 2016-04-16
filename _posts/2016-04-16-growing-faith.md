@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Growing Faith
-datePublished: '2016-04-16T21:14:30.690Z'
-dateModified: '2016-04-16T21:12:09.935Z'
+datePublished: '2016-04-16T21:25:58.522Z'
+dateModified: '2016-04-16T21:25:42.396Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-16-growing-faith.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-growing-faith.md
-published: true
 url: growing-faith/index.html
 _type: Article
 
