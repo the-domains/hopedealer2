@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://eepurl.com/bXeiTf'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "If you'd like to stay up to date with Hope Dealer and receive occasional emails from us, feel free to sign up here."
-datePublished: '2016-04-08T13:18:39.252Z'
-dateModified: '2016-04-08T13:18:35.616Z'
+datePublished: '2016-04-16T23:11:22.465Z'
+dateModified: '2016-04-16T23:11:22.239Z'
 title: Subscribe To Hope Dealer
 author: []
 sourcePath: _posts/2016-04-05-if-youd-like-to-stay-up-to-date-with-hope-dealer-and-receiv.md
