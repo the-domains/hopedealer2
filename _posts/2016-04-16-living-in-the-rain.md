@@ -17,8 +17,8 @@ keywords:
   - parachuteband
   - stn
 description: '"For as the rain and the snow come down from heaven and do not return there but water the earth, making it bring forth and sprout, giving seed to the sower and bread to the eater, so shall my word be that goes out from my mouth; it shall not return to me empty, but it shall accomplish that which I purpose, and shall succeed in the thing for which I sent it." Isaiah 55:10-11'
-datePublished: '2016-04-16T20:43:24.226Z'
-dateModified: '2016-04-16T20:41:09.866Z'
+datePublished: '2016-04-17T00:29:19.450Z'
+dateModified: '2016-04-17T00:18:56.328Z'
 author:
   - name: Hope Dealer
     url: 'https://www.youtube.com/channel/UC14cRUYUWcTOWuumdy1FHuw'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: Living In The Rain
+sourcePath: _posts/2016-04-16-living-in-the-rain.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-16-living-in-the-rain.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
