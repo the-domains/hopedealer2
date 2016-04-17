@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Subscribe To Hope Dealer. \_Be a \"Hope Dealer Hero\"."
-datePublished: '2016-04-17T12:11:42.876Z'
-dateModified: '2016-04-17T12:11:36.414Z'
+datePublished: '2016-04-17T12:34:55.214Z'
+dateModified: '2016-04-17T12:11:47.118Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-05-if-youd-like-to-stay-up-to-date-with-hope-dealer-and-receiv.md
