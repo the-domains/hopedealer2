@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=QrssDNa1r4g'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Hopelessness is curable. The first step is to know your purpose. The second is to become aware and informed. Hope Dealer aims to help you accomplish both. God Bless, Rev. Paster Jeffrey Graves & Billy Soden Defy Expectations - Rebel Faith'
-datePublished: '2016-04-18T00:27:16.399Z'
-dateModified: '2016-04-18T00:27:15.925Z'
+datePublished: '2016-04-18T00:40:02.631Z'
+dateModified: '2016-04-18T00:39:57.054Z'
 author:
   - name: Hope Dealer
     url: 'https://www.youtube.com/channel/UC14cRUYUWcTOWuumdy1FHuw'
@@ -24,6 +23,7 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
 sourcePath: _posts/2016-04-18-faces-of-our-brothers-sisters-1080p.md
 published: true
+url: faces-of-our-brothers-sisters-1080p/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
