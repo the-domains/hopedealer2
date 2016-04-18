@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T00:32:17.503Z'
-dateModified: '2016-04-16T23:08:15.372Z'
+datePublished: '2016-04-18T00:36:58.429Z'
+dateModified: '2016-04-17T06:33:37.348Z'
 title: Growing Faith by Rev. Pastor Jeff Graves
 author: []
 sourcePath: _posts/2016-04-16-growing-faith.md
