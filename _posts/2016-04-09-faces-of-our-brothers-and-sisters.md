@@ -1,15 +1,17 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-16T23:20:38.978Z'
-dateModified: '2016-04-09T19:27:53.532Z'
-author: []
-title: 'Faces Of Our Brothers & Sisters'
+datePublished: '2016-04-19T00:58:57.187Z'
+dateModified: '2016-04-19T00:58:56.597Z'
+author:
+  - name: Billy Soden
+    url: ''
+title: 'Faces Of Our Brothers & Sisters Video'
 sourcePath: _posts/2016-04-09-faces-of-our-brothers-and-sisters.md
 published: true
 authors: []
